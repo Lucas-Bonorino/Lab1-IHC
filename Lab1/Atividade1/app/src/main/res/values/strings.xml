@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atividade1</string>
+    <string name="input1">Insira o primeiro numero</string>
+    <string name="input2">Insira o segundo numero</string>
+    <string name="botao">Ver resultado</string>
+    <string name="texto">Resultado</string>
+</resources>
